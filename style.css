@@ -32,5 +32,9 @@ img {
 
 ol, ul, li, p {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+}
+
+li a {
+    color: black;
+    font-size: 24px;
 }

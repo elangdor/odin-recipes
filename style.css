@@ -1,0 +1,36 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1, h2, h3 {
+    font-family: monospace, sans-serif;
+}
+
+
+h1 {
+    font-size: 48px;
+    color: rgb(78, 78, 4);
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 100px;
+    color: saddlebrown;
+
+}
+
+img {
+    width: auto;
+    height: 400px;
+    border-width: 5px;
+    border-color: olive;
+    border-radius: 2px;
+    border-style: inset;
+    
+}
+
+ol, ul, li, p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}

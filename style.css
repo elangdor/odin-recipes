@@ -37,4 +37,15 @@ ol, ul, li, p {
 li a {
     color: black;
     font-size: 24px;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    margin-left: 20px;
+    background-color:brown;
+    padding: 8px;
+    text-align: center;
+    width: 320px;
+    border: dashed black 2px;
 }
